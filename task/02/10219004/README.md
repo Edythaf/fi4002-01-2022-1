@@ -113,11 +113,11 @@ Hasilnya adalah
 
 ## cara perkuliahan
 + Tuliskan pendapat Anda mengenai cara perkuliahan selama ini dan cantumkan usulan untuk perkuliahan setelah UTS.
-
++ Bagus
 
 ## topik sistem fisis
 + Tuliskan sistem fisis yang menarik bagi Anda untuk dikaji lebih dalam dan jelaskan alasannya mengapa.
-
++ 
 
 ## simulasi dan visualisasi
 + Apakah Anda tertarik dengan simulasi dan visualisasi? Jelaskan topik yang ingin Anda simulasikan / visualisasikan serta cantumkan alasannya dan perkiraan pusataka Python yang perlu digunakan.
